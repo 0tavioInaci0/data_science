@@ -13,7 +13,7 @@ Sou graduado em Licenciatura em Matemática pela Universidade do Estado do Pará
 
 **Links:**
 * [FaceBook](https://bit.ly/38K1agI)
-* [LinkedIn]()
+* [LinkedIn](https://bit.ly/3wWskZQ)
 * [Medium]()
 
 
