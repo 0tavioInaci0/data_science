@@ -20,6 +20,6 @@ Sou graduado em Licenciatura em Matemática pela Universidade do Estado do Pará
 ## Projetos:
 Aqui apresento alguns de meus projetos:
 
-* **Analisando Dados do Airbnb:** https://disponívelembreve
+* [Em Breve] **Analisando Dados do Airbnb:** https://disponívelembreve
 * 
 ---
